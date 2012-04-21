@@ -1,0 +1,1 @@
+This repo contains libraries for using the Imageproc board on ibird and similar ornithopter platforms. Fearing Lab. 
